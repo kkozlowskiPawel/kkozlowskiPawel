@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, it's Pawel! 👋
 
-<!--
-**kkozlowskiPawel/kkozlowskiPawel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Programming Technician** and a third-year computer science student from Poland 🇵🇱.
+I'm passionate about computer science, problem-solving, and constantly exploring the secrets of the IT world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+- 🎓 **Education:** I'm currently in my third year of engineering studies (Computer Science). I hold a professional title of Programming Technician.
+- 🔭 **Currently working on:** an engineering project.
+- 🌱 **Learning:** Expanding my knowledge in various fields.
+- 💡 **Goal:** I strive to write clean, scalable code and create diverse projects.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
+Java / Python / C++ / JavaScript / C#
+
+**Frontend/Backend:**
+Spring Boot / HTML & CSS
+
+**Tools:**
+Git / Linux / VS Code / IntelliJ IDEA
+
+---
+
+### ⚡ Fun Facts
+
+* ☕ Team Herbata
+* 🐧 My favorite operating system is MacOS
+
+---
+
+### Contact
+I'd love to collaborate or talk about interesting projects!
+
+* LinkedIn -
+* Portfolio / Website -
+* Email: -
