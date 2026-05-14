@@ -1,41 +1,18 @@
-# Hi, it's Pawel! 👋
+# Welcome to my profile
 
-I'm a **Programming Technician** and a third-year computer science student from Poland 🇵🇱.
-I'm passionate about computer science, problem-solving, and constantly exploring the secrets of the IT world.
+I am a software developer who focuses on creating practical and scalable software solutions. I specialize in software design and the optimization of daily processes.
 
----
+## Areas of activity
 
-### 🚀 About me
-- 🎓 **Education:** I'm currently in my third year of engineering studies (Computer Science). I hold a professional title of Programming Technician.
-- 🔭 **Currently working on:** an engineering project.
-- 🌱 **Learning:** Expanding my knowledge in various fields.
-- 💡 **Goal:** I strive to write clean, scalable code and create diverse projects.
+* **Software Development:** I handle comprehensive programming projects, from requirements analysis to implementation.
+* **Applications:** I create dedicated mobile and web applications tailored to specific needs.
+* **Scripts and Tools:** I develop scripts that support administration and daily operations.
+* **Process Automation:** I design and implement automation solutions whose primary goal is to eliminate repetitive tasks, increase efficiency, and generally improve workflow.
 
----
+## Project Approach
 
-### 🛠️ Tech Stack & Tools
+In my projects, I emphasize usability, code cleanliness, and workflow optimization. I believe that well-designed automation is the key to a modern work environment.
 
-**Languages:**
-Java / Python / C++ / JavaScript / C#
+## Contact
 
-**Frontend/Backend:**
-Spring Boot / HTML & CSS
-
-**Tools:**
-Git / Linux / VS Code / IntelliJ IDEA
-
----
-
-### ⚡ Fun Facts
-
-* ☕ Team Herbata
-* 🐧 My favorite operating system is MacOS
-
----
-
-### Contact
-I'd love to collaborate or talk about interesting projects!
-
-* LinkedIn -
-* Portfolio / Website -
-* Email: -
+I invite you to explore my repositories and contact me to discuss potential project collaboration.
